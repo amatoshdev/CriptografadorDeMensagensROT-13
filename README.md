@@ -1,4 +1,4 @@
-<h1> Criptografador de Mensagens ROT-13 </h1>
+<h1> Criptografador de Mensagens (ROT-13) </h1>
 
 <h2> Descrição do Projeto </h2>
 
