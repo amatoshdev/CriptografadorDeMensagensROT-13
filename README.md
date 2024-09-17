@@ -104,7 +104,7 @@ Tela inicial solicitando uma opção da lista ao usuário: <br/> <br/>
 <br/>
 <br/>
 Cenário de criptografia com a entrada da palavra "criptografia123": <br/> <br/>
-<img src="https://imgur.com/ov9Ggbv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/X9tNbSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
 Cenário de descriptografia com a entrada da palavra "pevcgbtensvn123" (palavra "criptografia123" criptografada): <br/> <br/>
