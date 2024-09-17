@@ -24,9 +24,9 @@ O número 1 tem como função a criptografia. Caso essa opção seja solicitada,
 
 Exemplo: 
 
-**Palavra inserida:** *"Ola, mundo."*
+**Palavra inserida:** *Ola, mundo.*
 
-**Criptografia da palavra inserida:** *"Byn, zhaqb."*
+**Criptografia da palavra inserida:** *Byn, zhaqb.*
 
 Já o número 2 tem como função a descriptografia. Caso essa opção seja desejada pelo usuário, o programa solicitará uma mensagem qualquer de sua escolha a ser descriptografada e realizará o processo de decifragem. Se o usuário inserir uma mensagem não-cifrada tendo como objetivo descriptografar uma mensagem, ela será criptografada. Para que o programa decifre uma mensagem, o usuário deverá inserir a mensagem cifrada.
 
@@ -34,7 +34,7 @@ Exemplo:
 
 **Palavra inserida:** *Byn, zhaqb.*
 
-**Descriptografia da palavra inserida:** *"Ola, mundo."*
+**Descriptografia da palavra inserida:** *Ola, mundo.*
 
 E, por fim, o número 3 exibe a mensagem "Saindo..." e finaliza o programa.
 
