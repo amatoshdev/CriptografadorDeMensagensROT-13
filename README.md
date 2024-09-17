@@ -98,7 +98,7 @@ Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhe
 
 <h2> Ilustrações do programa: </h2>
 
-<p align="center">
+<p align = "center">
 Tela inicial solicitando uma opção da lista ao usuário: <br/> <br/>
 <img src="https://imgur.com/pCtS39l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
@@ -120,7 +120,8 @@ Cenário de entrada para finalizar o programa: <br/> <br/>
 <br/>
 <br/>
 _______
-      
-*Gostaria de agradecer ao professor Cristóvão José Dias da Cunha, da Faculdade de Tecnologia (FATEC) de Guaratinguetá, por me proporcionar esse exercício desafiador e instigante com base em sua experiência profissional que demandou, em uma situação específica, a criação de um sistema semelhante.*
+
+<p align = "center">
+*Gostaria de agradecer ao professor Cristóvão José Dias da Cunha, da Faculdade de Tecnologia (FATEC) de Guaratinguetá, por me proporcionar esse exercício desafiador e instigante com base em sua experiência profissional que demandou, em uma situação específica, a criação de um sistema semelhante.* </p>
 
       Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
