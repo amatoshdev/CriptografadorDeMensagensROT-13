@@ -34,7 +34,7 @@ Exemplo:
 
 **Palavra inserida:** *Byn, zhaqb.*
 
-**Descriptografia da palavra inserida:** "Ola, mundo."
+**Descriptografia da palavra inserida:** *"Ola, mundo."*
 
 E, por fim, o número 3 exibe a mensagem "Saindo..." e finaliza o programa.
 
