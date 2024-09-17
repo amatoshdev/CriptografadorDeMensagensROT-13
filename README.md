@@ -120,7 +120,6 @@ Cenário de entrada para finalizar o programa: <br/> <br/>
 <br/>
 <br/>
 ___
-
 *Gostaria de agradecer ao professor Cristóvão José Dias da Cunha, da Faculdade de Tecnologia (FATEC) de Guaratinguetá, por me proporcionar esse exercício desafiador e instigante com base em sua experiência profissional que demandou, em uma situação específica, a criação de um sistema semelhante.*
 
       Muito obrigado por acompanhar a leitura dessa apresentação até aqui! Desfrute-o como quiser! 😁☕
