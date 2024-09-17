@@ -103,8 +103,6 @@ Tela inicial solicitando uma opção da lista ao usuário: <br/> <br/>
 <img src="https://imgur.com/pCtS39l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
-_____
-      
 Cenário de criptografia com a entrada da palavra "criptografia123": <br/> <br/>
 <img src="https://imgur.com/X9tNbSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
@@ -121,7 +119,7 @@ Cenário de entrada para finalizar o programa: <br/> <br/>
 <img src="https://imgur.com/fx6QZyw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
-_____
+_______
       
 *Gostaria de agradecer ao professor Cristóvão José Dias da Cunha, da Faculdade de Tecnologia (FATEC) de Guaratinguetá, por me proporcionar esse exercício desafiador e instigante com base em sua experiência profissional que demandou, em uma situação específica, a criação de um sistema semelhante.*
 
