@@ -100,11 +100,11 @@ Para (re)criar esse projeto você necessitará consolidar e aplicar certos conhe
 
 <p align = "center">
 Tela inicial solicitando uma opção da lista ao usuário: <br/> <br/>
-<img src="https://imgur.com/pCtS39l.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/DeFN0t9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
 Cenário de criptografia com a entrada da palavra "criptografia123": <br/> <br/>
-<img src="https://imgur.com/X9tNbSA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/MSEZUch.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br/>
 <br/>
 Cenário de descriptografia com a entrada da palavra "pevcgbtensvn123" (palavra "criptografia123" criptografada): <br/> <br/>
